@@ -1,0 +1,11 @@
+// A continuación se explicarán algunos términos aprendidos en la primera lección:
+
+// Variables: Son aquellos elementos que pueden recibir un valor cambiante. El valor que recibe puede comprender varios tipos de datos como:
+    //String: Es un valor de texto el cual se debe encerrar en comillas simples ('string') para ser leído como tal.
+    //Numero: Es un valor numérico que recibe la variable
+    //Booleano: Es un valor FALSO o VERDADERO que recibe una variable, generalmente se asigna como resultado de ejecutar una condición que se cumple o no se cumple. 
+
+//Funciones: Es una acción de procesamiento a realizar, la cuál puede tomar información de variables previas o especificadas en la función y retornará resultados a través de la kewyword return.
+
+// Declaraciones IF: Las declaraciones if, permiten evaluar condiciones y realizar una acción en caso de que la condición se cumpla o no se cumpla (valores booelanos (true o falase)). Para evaluar condiciones, es necesario uilizar un operador lógico.
+
