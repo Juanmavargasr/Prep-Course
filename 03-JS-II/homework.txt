@@ -1,0 +1,8 @@
+Explicación de conceptos:
+
+For: El statement "For", permite ejecutar una acción de manera cíclica mientras NO se cumpla una condición, es decir, el resultado booleano de la condición sea false, una vez el resultado sea true, no se cumplirá más. 
+
+Condiciones lógicas: Las condiciones lógicas permiten agrupar una serie de criterios para arrojar un solo resultado a la condición.
+    &&: Se utiliza para notar la condición "Y". Se coloca entre criterios y permite arrojar un resultado verdadero (true) si y solo si todos los criterios se cumplen. 
+    ||: Se utiliza para notar la condición "O". Se coloca entre criterios y permite arrojar un resultado verdadero (true) si se cumple al menos uno de los criterios señalados. 
+    !: Se utiliza para negar un criterio, es decir que la condición se cumplirá cuando sea el resultado contrario al esperado.
